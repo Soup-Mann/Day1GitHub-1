@@ -1,0 +1,15 @@
+/Users/kmartinez/Documents/Lvl1/Week1/Day1GitHub/bin/Debug/net6.0/Day1GitHub
+/Users/kmartinez/Documents/Lvl1/Week1/Day1GitHub/bin/Debug/net6.0/Day1GitHub.deps.json
+/Users/kmartinez/Documents/Lvl1/Week1/Day1GitHub/bin/Debug/net6.0/Day1GitHub.runtimeconfig.json
+/Users/kmartinez/Documents/Lvl1/Week1/Day1GitHub/bin/Debug/net6.0/Day1GitHub.dll
+/Users/kmartinez/Documents/Lvl1/Week1/Day1GitHub/bin/Debug/net6.0/Day1GitHub.pdb
+/Users/kmartinez/Documents/Lvl1/Week1/Day1GitHub/obj/Debug/net6.0/Day1GitHub.csproj.AssemblyReference.cache
+/Users/kmartinez/Documents/Lvl1/Week1/Day1GitHub/obj/Debug/net6.0/Day1GitHub.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kmartinez/Documents/Lvl1/Week1/Day1GitHub/obj/Debug/net6.0/Day1GitHub.AssemblyInfoInputs.cache
+/Users/kmartinez/Documents/Lvl1/Week1/Day1GitHub/obj/Debug/net6.0/Day1GitHub.AssemblyInfo.cs
+/Users/kmartinez/Documents/Lvl1/Week1/Day1GitHub/obj/Debug/net6.0/Day1GitHub.csproj.CoreCompileInputs.cache
+/Users/kmartinez/Documents/Lvl1/Week1/Day1GitHub/obj/Debug/net6.0/Day1GitHub.dll
+/Users/kmartinez/Documents/Lvl1/Week1/Day1GitHub/obj/Debug/net6.0/refint/Day1GitHub.dll
+/Users/kmartinez/Documents/Lvl1/Week1/Day1GitHub/obj/Debug/net6.0/Day1GitHub.pdb
+/Users/kmartinez/Documents/Lvl1/Week1/Day1GitHub/obj/Debug/net6.0/Day1GitHub.genruntimeconfig.cache
+/Users/kmartinez/Documents/Lvl1/Week1/Day1GitHub/obj/Debug/net6.0/ref/Day1GitHub.dll
